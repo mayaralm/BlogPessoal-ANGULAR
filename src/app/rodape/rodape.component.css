@@ -9,7 +9,7 @@ ul.social-network li{
 }
 .fa{
     font-size: 35pt;
-    color: blueviolet;
+    color: grey;
     padding: 10px;
 }
 
@@ -18,7 +18,7 @@ ul.social-network li{
     color: #3b5998;
 }
 .fa-github-square:hover{
-    color: #c13584;
+    color: #8235c1;
 }
 .fa-linkedin-square:hover{
     color:#0072b1;
